@@ -16,20 +16,18 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
  
 ## 📊 Analysis Visualizations
 
-| Visualization | Description | Preview |
-|---------------|-------------|---------|
-| ![Heat map](Visuals/heatmap.png) | Data Distribution of Features | <img src="Visuals/heatmap.png" width="200"/> |
-| ![Correlation Heatmap](images/correlation_heatmap.png) | Correlation matrix of all features | <img src="images/correlation_heatmap.png" width="200"/> |
-| ![Confusion Matrix](images/confusion_matrix.png) | Model performance confusion matrix | <img src="images/confusion_matrix.png" width="200"/> |
-| ![ROC Curve](images/roc_curve.png) | ROC Curve for binary classifier | <img src="images/roc_curve.png" width="200"/> |
-| ![Feature Importance](images/feature_importance.png) | Top 10 features influencing the model | <img src="images/feature_importance.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-| ![Dist Plot](images/distribution_plot.png) | Data Distribution of Features | <img src="images/distribution_plot.png" width="200"/> |
-
+| 📈 Visualization | 📉 Description |
+|------------------|----------------|
+| ![](images/01-overview.png) | **Overview** of the dataset - distribution of key variables. |
+| ![](images/02-correlation.png) | **Correlation Heatmap** showing relationships between variables. |
+| ![](images/03-pie-gender.png) | **Gender Distribution** represented in a pie chart. |
+| ![](images/04-age-dist.png) | **Age Distribution** histogram of the subjects. |
+| ![](images/05-income-bar.png) | **Income Categories** visualized using a bar chart. |
+| ![](images/06-region-map.png) | **Geographic Spread** of data points on a map. |
+| ![](images/07-trend-line.png) | **Trend Analysis** over time using a line chart. |
+| ![](images/08-boxplot.png) | **Boxplot** of variable distribution for outlier detection. |
+| ![](images/09-cluster.png) | **K-Means Clustering** visualization. |
+| ![](images/10-forecast.png) | **Forecast** of future trends using time series. |
 
 ## 📁 Structure
 - `data/`: CSV datasets
