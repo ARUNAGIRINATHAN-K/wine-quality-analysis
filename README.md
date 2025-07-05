@@ -18,7 +18,7 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 
 | 📈 Visualization | 📉 Description |
 |------------------|----------------|
-| ![](images/01-overview.png) | **Overview** of the dataset - distribution of key variables. |
+| ![Scatter plot](Visuals/scatter.png) | **Overview** of the dataset - distribution of key variables. |
 | ![](images/02-correlation.png) | **Correlation Heatmap** showing relationships between variables. |
 | ![](images/03-pie-gender.png) | **Gender Distribution** represented in a pie chart. |
 | ![](images/04-age-dist.png) | **Age Distribution** histogram of the subjects. |
