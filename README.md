@@ -21,7 +21,7 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 | ![Scatter plot](Visuals/scatter.png) | **Overview** of the dataset - distribution of key variables. |
 | ![Parallel plot](Visuals/parallel.png) | **Correlation Heatmap** showing relationships between variables. |
 | ![](Visuals/pair.png) | **Gender Distribution** represented in a pie chart. |
-| ![](images/04-age-dist.png) | **Age Distribution** histogram of the subjects. |
+| ![](Visuals/heatmap.png) | **Age Distribution** histogram of the subjects. |
 | ![](images/05-income-bar.png) | **Income Categories** visualized using a bar chart. |
 | ![](images/06-region-map.png) | **Geographic Spread** of data points on a map. |
 | ![](images/07-trend-line.png) | **Trend Analysis** over time using a line chart. |
