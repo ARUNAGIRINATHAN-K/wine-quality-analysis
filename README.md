@@ -27,7 +27,6 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 | ![](Visuals/Radar.png) | **Trend Analysis** over time using a line chart. |
 | ![](Visuals/PCA.png) | **Boxplot** of variable distribution for outlier detection. |
 | ![](Visuals/K-means.png) | **K-Means Clustering** visualization. |
-| ![](images/10-forecast.png) | **Forecast** of future trends using time series. |
 
 ## 📁 Structure
 - `data/`: CSV datasets
