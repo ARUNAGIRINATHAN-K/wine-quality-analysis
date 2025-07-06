@@ -25,7 +25,7 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 | ![](Visuals/countplot.png) | **Income Categories** visualized using a bar chart. |
 | ![](Visuals/adrews.png) | **Geographic Spread** of data points on a map. |
 | ![](Visuals/Radar.png) | **Trend Analysis** over time using a line chart. |
-| ![](images/08-boxplot.png) | **Boxplot** of variable distribution for outlier detection. |
+| ![](Visuals/PCA.png) | **Boxplot** of variable distribution for outlier detection. |
 | ![](images/09-cluster.png) | **K-Means Clustering** visualization. |
 | ![](images/10-forecast.png) | **Forecast** of future trends using time series. |
 
