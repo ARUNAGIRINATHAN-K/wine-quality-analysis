@@ -26,7 +26,7 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 | ![](Visuals/adrews.png) | **Geographic Spread** of data points on a map. |
 | ![](Visuals/Radar.png) | **Trend Analysis** over time using a line chart. |
 | ![](Visuals/PCA.png) | **Boxplot** of variable distribution for outlier detection. |
-| ![](images/09-cluster.png) | **K-Means Clustering** visualization. |
+| ![](Visuals/K-means.png) | **K-Means Clustering** visualization. |
 | ![](images/10-forecast.png) | **Forecast** of future trends using time series. |
 
 ## 📁 Structure
