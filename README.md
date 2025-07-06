@@ -24,7 +24,7 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 | ![](Visuals/heatmap.png) | **Age Distribution** histogram of the subjects. |
 | ![](Visuals/countplot.png) | **Income Categories** visualized using a bar chart. |
 | ![](Visuals/adrews.png) | **Geographic Spread** of data points on a map. |
-| ![](images/07-trend-line.png) | **Trend Analysis** over time using a line chart. |
+| ![](Visuals/Radar.png) | **Trend Analysis** over time using a line chart. |
 | ![](images/08-boxplot.png) | **Boxplot** of variable distribution for outlier detection. |
 | ![](images/09-cluster.png) | **K-Means Clustering** visualization. |
 | ![](images/10-forecast.png) | **Forecast** of future trends using time series. |
